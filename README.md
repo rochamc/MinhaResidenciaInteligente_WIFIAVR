@@ -1,2 +1,2 @@
 # MinhaResidenciaInteligente_WIFIAVR
-Implementação inicial da comunicação WIFI
+Comunicação WIFI
